@@ -1,4 +1,4 @@
-# Spring Boot "Pokemon RNG" Mini Project
+# Spring Boot "My Employee" mini project
 
 ## How to Run 
 
